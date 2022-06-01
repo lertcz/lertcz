@@ -1,4 +1,9 @@
-# Michal
+# Languages
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&exclude_repo=2DSandBox" />
+</a>
+# Best repos
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lertcz&repo=RubiksCube_OpenCV" />
 </a>
