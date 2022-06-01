@@ -1,5 +1,5 @@
 # Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&exclude_repo=2DSandBox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
 
 # Best repos
 <div>
