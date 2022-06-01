@@ -1,10 +1,10 @@
 # Stats
 <div>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
+  <img align="center" height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lertcz&show_icons=true" />
+  <img align="center" height=100 src="https://github-readme-stats.vercel.app/api?username=lertcz&show_icons=true" />
 </a>
 </div>
 # Best repos
