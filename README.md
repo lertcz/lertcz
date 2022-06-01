@@ -1,5 +1,4 @@
 # Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
 <div>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
