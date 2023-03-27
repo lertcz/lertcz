@@ -8,7 +8,7 @@
 </a>
 </div>
 
-# Best repos
+# Projects
 <div>
 <a href="https://github.com/lertcz/RubiksCube_OpenCV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lertcz&repo=RubiksCube_OpenCV" />
