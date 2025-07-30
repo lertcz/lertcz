@@ -3,9 +3,9 @@
 <a href="#">
   <img align="center" height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertcz&layout=compact&hide=GDScript" />
 </a>
-<a href="#">
-  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=lertcz&show_icons=true" />
-</a>
+#<a href="#">
+#  <img align="center" height=175 src="https://github-readme-stats.vercel.app/api?username=lertcz&show_icons=true" />
+#</a>
 </div>
 
 # Projects
